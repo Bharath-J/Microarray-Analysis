@@ -12,4 +12,3 @@ What I will be finding out is which, if any, of all these 22000 variables is cha
 
 In a microarray experiment the variables measured are usually called "probes", "genes" or "features", and each measured value is often called an "expression" value.
 
-In a microarray experiment the variables measured are usually called "probes", "genes" or "features", and each measured value is often called an "expression" value.
